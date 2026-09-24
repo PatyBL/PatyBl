@@ -3,7 +3,7 @@
   <img
     src="https://static.jojowiki.com/images/4/45/latest/20210319203606/JJL_Chapter_4.jpg"
     width="100%"
-    height="20px"
+    height="20vh"
   />
 </p>
 
@@ -46,7 +46,6 @@ Meu objetivo é continuar desenvolvendo minhas habilidades enquanto ganho experi
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript" />
   <img src="https://img.shields.io/badge/Portugol-333333?style=for-the-badge&logo=bookstack&logoColor=white" height="48"/>
-  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png"/>
 </p>
 
 ### Nível médio
