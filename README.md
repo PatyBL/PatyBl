@@ -1,11 +1,11 @@
 <!-- CAPA -->
-<p align="center">
+<div align="center" style="height: 140px; overflow: hidden;">
   <img
     src="https://static.jojowiki.com/images/4/45/latest/20210319203606/JJL_Chapter_4.jpg"
     width="100%"
-    height="20vh"
+    style="display: block; margin-top: 0;"
   />
-</p>
+</div>
 
 <br>
 
@@ -92,16 +92,24 @@ Aplicação voltada para organização e acompanhamento financeiro, com dashboar
 
 ---
 
+---
+
 ## Contato
 
 <p align="center">
 
 <a href="mailto:nicolasgabrielfrancosantos@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    height="40"
+  />
 </a>
 
 <a href="https://discord.com/users/984134812887552091">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    height="40"
+  />
 </a>
 
 </p>
