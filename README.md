@@ -3,7 +3,7 @@
   <img
     src="https://static.jojowiki.com/images/4/45/latest/20210319203606/JJL_Chapter_4.jpg"
     width="100%"
-    height="20%"
+    height="20px"
   />
 </p>
 
